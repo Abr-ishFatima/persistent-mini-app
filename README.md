@@ -21,7 +21,18 @@ A simple yet powerful To-Do List application built with vanilla JavaScript that 
 
 No npm packages, build tools, or external libraries needed.
 
-## 🚀 How to Run
+## � Clone & Setup
+
+### Clone the Repository
+```bash
+git clone https://github.com/Abr-ishFatima/persistent-mini-app.git
+cd persistent-mini-app
+```
+
+### Then Run It
+Choose any method below to run the app on your machine.
+
+## �🚀 How to Run
 
 ### Option 1: Direct File Opening (Quickest)
 1. Navigate to the project folder
