@@ -93,3 +93,9 @@ window.addEventListener('storage', function(e) {
 ```
 
 These aren't critical for a mini-app, but they'd make it feel more polished.
+
+## Honest Answer + Reason:
+
+I've used Copilot to write README.md to make the things faster and to my surprise it had replicated each and every thought process through which I've gone through and I consider myself as a naive so I also taken help for ANSWERS.md so it could suggest the answers within context of this project.
+
+I've also tried to do this project using C++ but never worked with CMAKE, so I thought I should firstly put effort in submitting the assessment then start working with CMAKE and SQLITE3.
